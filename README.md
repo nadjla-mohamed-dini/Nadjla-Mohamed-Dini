@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hello World!! Je m'appelle Nadjla, jeune aspirante en développement logiciel étudie actuellement à la Plateforme basé sur Marseille, bientôt à la recherche d'une alternance.</p>
+<p align="left">Salut tout le monde!! Je m'appelle Nadjla, jeune aspirante en développement logiciel étudie actuellement à la Plateforme basé sur Marseille, bientôt à la recherche d'une alternance.</p>
 
 ###
 
@@ -23,6 +23,9 @@
 ###
 
 <img align="right" height="150" src="https://i.gifer.com/g0UF.gif"  />
+<div align="center">
+  <img height="200" src="https://i.gifer.com/8Nwv.gif"  />
+</div>
 
 ###
 
